@@ -1,12 +1,12 @@
 # Library to use OpenWeatherMap One Call API 3.0
-# August 16, 2025 v0.02
+# August 20, 2025 v0.03
  #
 # OpenWeather's One Call API 3.0:
 #   https://openweathermap.org/api/one-call-3
 # As for weather conditions ("id", "main", "description" and "icon"), see:
 #   https://openweathermap.org/weather-conditions
 
-import badger2040, urequests, json, openweather_extractors
+import urequests, json, openweather_extractors
 
 # Takes lat (str), lon (str), API key (str) to call OpenWeather's API
 # Returns JSON weather data (dict)
@@ -178,13 +178,9 @@ def getWeatherConditionNextHr(weatherDataDict):
         raise RuntimeError("Data not found for the next hour.")
 
 if __name__ == "__main__":    
-    apiKey = ""
+    apiKey = "7d5ad812ef8968d100698dd2920efc8b"
     lat = 42.36
     lon = -71.01
-
-    display = badger2040.Badger2040()
-    # Connects to the wireless network. Make sure to complete WIFI_CONFIG.py.
-    display.connect()
 
     weatherData = getLatLonWeather(lat, lon, apiKey, exclude="minutely,daily,alerts")
 
