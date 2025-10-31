@@ -1,6 +1,5 @@
-import timesync
-
-timesync.sync()
-
-
+# import timesync
+# 
+# timesync.sync()
+# 
 

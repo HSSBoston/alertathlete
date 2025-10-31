@@ -9,7 +9,6 @@ def sync(utcOffset = UTC_OFFSET_HR):
     wifi.connectWiFi()
     syncToUtc()
     
-    print("!!!!!")
     utcNow = time.localtime()
 #     print(utcNow)  
     localNowSeconds = time.time() + (utcOffset * 3600)
