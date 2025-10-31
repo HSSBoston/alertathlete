@@ -1,8 +1,8 @@
 .DS_Store
 *.csv
 csv-files/
-ml/*.pkl
-ml/*.joblib
+*.pkl
+*.joblib
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
