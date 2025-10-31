@@ -8,13 +8,14 @@ UTC_OFFSET_HR = -4
 def sync(utcOffset = UTC_OFFSET_HR):
     wifi.connectWiFi()
     syncToUtc()
-
+    
+    print("!!!!!")
     utcNow = time.localtime()
 #     print(utcNow)  
     localNowSeconds = time.time() + (utcOffset * 3600)
     yr, mo, day, hr, minute, sec, wkday, yrday = time.localtime(localNowSeconds)
     machine.RTC().datetime((yr, mo, day, wkday, hr, minute, sec, 0))
-    print(f"Time synched to local time:", time.localtime())
+    print("Time synched to local time:", time.localtime())
 
 def syncToUtc():
     while(True):
@@ -25,6 +26,7 @@ def syncToUtc():
         except OSError as e:
             if e.args[0] == 116: # ETIMEDOUT
                 print("NTP request timed out. Retrying...")
+                time.sleep(1)
                 continue
 
 if __name__ == "__main__":

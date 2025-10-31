@@ -1,0 +1,6 @@
+import timesync
+
+timesync.sync()
+
+
+
