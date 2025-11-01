@@ -178,7 +178,7 @@ def getWeatherConditionNextHr(weatherDataDict):
         raise RuntimeError("Data not found for the next hour.")
 
 if __name__ == "__main__":    
-    apiKey = "7d5ad812ef8968d100698dd2920efc8b"
+    apiKey = ""
     lat = 42.36
     lon = -71.01
 
