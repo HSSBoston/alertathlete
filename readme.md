@@ -16,10 +16,23 @@ AlertAthelete has been empirically tested in tennis practice and matches in the 
 
 AlertAthlete allows athletes and coaches to be aware of their heat risk to take the necessary precautions (e.g. taking breaks in the shades and extra water), lower their chances of heat-related accidents (e.g. falls and ER visits), and perform the best of their ability. 
 
-## Awards 
+## Awards: 
 - [Best Oral Presentation Award](https://www.the-iyrc.org/iyrc-winter-2025.html), "Machine Learning-based Heat Risk Estimation for Outdoor Sports," *12th International Young Researchers' Conference*, Columbia University Vagelos College of Physicians and Surgeons, New York City, NY, December 2025.  
 
-## Publications
+## Publications:
 - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf)
 - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/tasme2025poster.pdf)
+
+## Informal Context to this Project: 
+
+I have been playing tennis from a young age, and last year joined the tennis team for my high school. Last season, I noticed the temperatures outside during matches were either very cold or very hot. When I had a match in April, it was a sunny day with 75 degrees after several cloudy days with 55 degrees. I found myself feeling dizzy and light-headed as I played in the sun. I needed to take extra and longer breaks and could not play my best. My coach told me it was a symptom of heat-related illness. In fact, some of my team mates had the same symptoms, and one of them had to visit the ER with an ambulance. 
+
+This experience made me frustrated but curious because I thought heat-related illness occurs only in the southern states and no one has heat-related symptoms in April in Massachusetts. I researched these topics and learned that heat-related illness can actually develop in anyone who is not acclimatized to a hot and humid environment under the sun, regardless of the South or North, and regardless of spring or summer. Heat kills more people than cold in Massachusetts, and in any other states. In fact, Massachusetts’ heat-related ER visit rate is very high. I also learned that heat is a leading cause of preventable deaths and ER visits in college and high school sports. 
+
+Upon further research, I came across Wet Bulb Globe Temperature (WBGT). It is a numerical index to indicate the heat stress on the body in direct sunlight by taking into account solar radiation, air temperature, humidity, and wind speed. It is recommended as a primary means to formulate heat safety policies by many organizations such as the CDC, National Federation of State High School Associations (NFHS), and US Tennis Association. 
+
+WBGT is great, but WBGT meters are expensive (>$500ea). Thus, it is not often used in schools. NFHS has supplied grants for schools to purchase 5,000 meters, but there are over 18,000 public schools in the US. 
+
+This motivated me to create something that can allow people, especially athletes, to know their heat risks to take precautions and prevent accidents. Then, I arrived at an idea to make an AI-powered and low-cost wearable device. Since it costs only $20, I am wondering if it may be possible to start a company that distributes the device among athletes.  
+
 
