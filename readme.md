@@ -17,7 +17,7 @@ AlertAthelete has been empirically tested in tennis practice and matches in the 
 AlertAthlete allows athletes and coaches to be aware of their heat risk to take the necessary precautions (e.g. taking breaks in the shades and extra water), lower their chances of heat-related accidents (e.g. falls and ER visits), and perform the best of their ability. 
 
 ## Awards 
-- Best Oral Presentation Award, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," *12th International Young Researchers' Conference*, Columbia University Vagelos College of Physicians and Surgeons, New York City, NY, December 2025.  
+- [Best Oral Presentation Award](https://www.the-iyrc.org/iyrc-winter-2025.html), "Machine Learning-based Heat Risk Estimation for Outdoor Sports," *12th International Young Researchers' Conference*, Columbia University Vagelos College of Physicians and Surgeons, New York City, NY, December 2025.  
 
 ## Publications
 - Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf)
