@@ -33,6 +33,6 @@ Upon further research, I came across Wet Bulb Globe Temperature (WBGT). It is a 
 
 WBGT is great, but WBGT meters are expensive (>$500ea). Thus, it is not often used in schools. NFHS has supplied grants for schools to purchase 5,000 meters, but there are over 18,000 public schools in the US. 
 
-This motivated me to create something that can allow people, especially athletes, to know their heat risks to take precautions and prevent accidents. Then, I arrived at an idea to make an AI-powered and low-cost wearable device. Since it costs only $20, I am wondering if it may be possible to start a company that distributes the device among athletes.  
+This motivated me to create something that can allow people, especially athletes, to know their heat risks to take precautions and prevent accidents. Then, I arrived at an idea to make an AI-powered and low-cost wearable device.
 
 
