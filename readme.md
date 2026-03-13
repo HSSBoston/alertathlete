@@ -2,6 +2,10 @@
   <img src="images/banner.jpg" width="750" />
 </p>
 
+## Short Project Summary
+
+## Extended Project Summary
+
 It has been very hot in recent years. The years 2024 and 2023 were the hottest and the second hottest years in history, respectively, and the year 2025 is likely to be the third hottest. These high temperatures bring risk for heat-related illnesses (HRIs), such as heat cramps, heat exhaustion and heat stroke, which are a critical threat for anyone in summer and can cause death if not taken seriously. In the US, at least 2,325 HRI deaths were reported in 2023, and over 10,000 annual HRI deaths are estimated from 1997 to 2006.
 
 HRIs affect thousands of athletes every year. There have been at least 77 HRI deaths among athletes in the US since 2000, and 65 of them (84%) are teenagers. Younger generations are more vulnerable due to their higher metabolism. HRIs are the top cause of preventable deaths for high school athletes. This is a major public health and humanity issue. 
