@@ -24,7 +24,7 @@ AlertAthlete allows athletes and coaches to be aware of their heat risk to take 
 - [Best Oral Presentation Award](https://www.the-iyrc.org/iyrc-winter-2025.html), "Machine Learning-based Heat Risk Estimation for Outdoor Sports," *12th International Young Researchers' Conference*, Columbia University Vagelos College of Physicians and Surgeons, New York City, NY, December 2025.  
 
 ## Publications:
-- Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf)
+- Hanna Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports," In *Proc. of 12th International Young Researchers' Conference*, oral presentation abstract, New York City, NY, December 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/iyrc25fall.pdf), [presentation slides](https://docs.google.com/presentation/d/1y8TowAVRlK7Nh6zXVjnK0sNrilsj6rY8UVBl6g-LLL0/edit?usp=sharing), [video](https://www.youtube.com/watch?v=JGaz-hF8Z5Y)
 - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/tasme2025poster.pdf)
 
 ## Informal Context to this Project: 
