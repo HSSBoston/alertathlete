@@ -28,7 +28,7 @@ AlertAthlete allows athletes and coaches to be aware of their heat risk to take 
 - Hanna Suzuki, "Integrating IoT and Machine Learning for Mobile and Wearable Heat Risk Tracking in Outdoor Sports," In *Proc. of the 29th Technological Advances in Science, Medicine, and Engineering*, poster presentation abstract, July 2025. [preprint](https://github.com/HSSBoston/alertathlete/blob/main/doc/tasme2025poster.pdf)
 
 ## Presentations:
-- H. Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports", poster presentation, Sustainability Workshop, Japan Festival Boston, April 2026.
+- H. Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports", poster presentation, Sustainability Workshop, Japan Festival Boston, April 2026. [poster](doc/jfb26-poster.jpg)
 
 ## Informal Context to this Project: 
 
