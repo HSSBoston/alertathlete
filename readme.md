@@ -4,6 +4,9 @@
 
 ## Short Project Summary
 
+This work aids athletes and coaches to be aware of the heat risk of their activity and take precautions early. The proposed method relies on several meteorological parameters that are commonly available for athletes and coaches and performs supervised machine learning to estimate the current heat alert
+level in compliance to a standard heat safety policy for athletes. Based on over 15,000 weather data samples in the summer of 2024, decision tree (DT) and random forest (RF) models are trained to perform multiclass classification for heat alert levels. After resampling imbalanced data and adjusting hyperparameters, the DT and RF models yield the accuracy of 91% and 99%, respectively.
+
 ## Extended Project Summary
 
 It has been very hot in recent years. The years 2024 and 2023 were the hottest and the second hottest years in history, respectively, and the year 2025 is likely to be the third hottest. These high temperatures bring risk for heat-related illnesses (HRIs), such as heat cramps, heat exhaustion and heat stroke, which are a critical threat for anyone in summer and can cause death if not taken seriously. In the US, at least 2,325 HRI deaths were reported in 2023, and over 10,000 annual HRI deaths are estimated from 1997 to 2006.
