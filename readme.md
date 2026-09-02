@@ -35,7 +35,7 @@ AlertAthlete allows athletes and coaches to be aware of their heat risk to take 
 
 ## Relevant Projects: 
 
-
+This project inspired a [community intervention project](https://github.com/HSSBoston/hri-intervention) that offers heat-related illness education to high school athletes and marching band members. 
 
 ## Informal Context to this Project: 
 
