@@ -33,6 +33,10 @@ AlertAthlete allows athletes and coaches to be aware of their heat risk to take 
 ## Presentations:
 - H. Suzuki, "Machine Learning-based Heat Risk Estimation for Outdoor Sports", poster presentation, Sustainability Workshop, Japan Festival Boston, April 2026. [poster](doc/jfb26-poster.jpg)
 
+## Relevant Projects: 
+
+
+
 ## Informal Context to this Project: 
 
 I have been playing tennis from a young age, and last year joined the tennis team for my high school. Last season, I noticed the temperatures outside during matches were either very cold or very hot. When I had a match in April, it was a sunny day with 75 degrees after several cloudy days with 55 degrees. I found myself feeling dizzy and light-headed as I played in the sun. I needed to take extra and longer breaks and could not play my best. My coach told me it was a symptom of heat-related illness. In fact, some of my team mates had the same symptoms, and one of them had to visit the ER with an ambulance. 
