@@ -5,7 +5,7 @@
 ## Short Project Summary
 
 This work aids athletes and coaches to be aware of the heat risk of their activity and take precautions early. The proposed method relies on several meteorological parameters that are commonly available for athletes and coaches and performs supervised machine learning to estimate the current heat alert
-level in compliance to a standard heat safety policy for athletes. Based on over 15,000 weather data samples in the summer of 2024, decision tree (DT) and random forest (RF) models are trained to perform multiclass classification for heat alert levels. After resampling imbalanced data and adjusting hyperparameters, the DT and RF models yield the accuracy of 91% and 99%, respectively.
+level in compliance to a standard heat safety policy for athletes. Based on over 15,000 weather data samples in the summer of 2024, decision tree (DT) and random forest (RF) models are trained to perform multiclass classification for heat alert levels. After resampling imbalanced data and adjusting hyperparameters, the DT and RF models yield the accuracy of 91% and 99%, respectively. The proposed method has been implemented in a wearable device and tested emprically in tennis practice and matches. 
 
 ## Extended Project Summary
 
